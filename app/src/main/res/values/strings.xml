@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Swiggy_copy</string>
+
+    <string name="hello_world">Card view works!</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_closed">Closed</string>
+    <string name="restaurant">Search restaurants, dishes and cuisines</string>
+    <string name="ser">Search</string>
+    <string name="ab">Hello</string>
+    <string name="facebook_app_id">1038318139595214</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_swiggy_fragment">swiggyFragment</string>
+    <string name="fb_login_protocol_scheme">fb1038318139595214</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_swig_frag">SwigFrag</string>
+    <string name="hui1">S.L.V. Uphara, Kumaraswamy layout</string>
+    <string name="hui2">Coffee Stop, Kumaraswamy layout</string>
+    <string name="hui3">Super Sandwich, Kumaraswamy layout</string>
+    <string name="hui4">Chocoberry, Kumaraswamy Layout</string>
+    <string name="title_activity_blank">Blank</string>
+
+</resources>
